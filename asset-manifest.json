@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deonpearson-com/static/css/main.5f361e03.chunk.css",
+    "main.js": "/deonpearson-com/static/js/main.423f56c5.chunk.js",
+    "main.js.map": "/deonpearson-com/static/js/main.423f56c5.chunk.js.map",
+    "runtime-main.js": "/deonpearson-com/static/js/runtime-main.57870e00.js",
+    "runtime-main.js.map": "/deonpearson-com/static/js/runtime-main.57870e00.js.map",
+    "static/js/2.596b8375.chunk.js": "/deonpearson-com/static/js/2.596b8375.chunk.js",
+    "static/js/2.596b8375.chunk.js.map": "/deonpearson-com/static/js/2.596b8375.chunk.js.map",
+    "index.html": "/deonpearson-com/index.html",
+    "precache-manifest.0276c80fa676300d7191a2ef12c3f2af.js": "/deonpearson-com/precache-manifest.0276c80fa676300d7191a2ef12c3f2af.js",
+    "service-worker.js": "/deonpearson-com/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/deonpearson-com/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.596b8375.chunk.js.LICENSE.txt": "/deonpearson-com/static/js/2.596b8375.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57870e00.js",
+    "static/js/2.596b8375.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.423f56c5.chunk.js"
+  ]
+}
