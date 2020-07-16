@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/deonpearson-com/precache-manifest.0276c80fa676300d7191a2ef12c3f2af.js"
+  "/deonpearson-com/precache-manifest.64e8dc0a25339e19be3d6ef4883bffbc.js"
 );
 
 self.addEventListener('message', (event) => {
