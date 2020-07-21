@@ -1,5 +1,4 @@
 import React from "react";
-// import { Route } from "react-router-dom";
 import { makeStyles } from "@material-ui/core/styles";
 
 import { Paper, Grid, IconButton, Card, CardContent } from "@material-ui/core";
@@ -9,9 +8,6 @@ import TypoGraphy from "@material-ui/core/Typography";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import TwitterIcon from "@material-ui/icons/Twitter";
-
-// Import Components
-// import { Home, Contact, Posts, NavBar } from "./components/home.js";
 
 const useStyles = makeStyles((theme) => ({
   root: {
