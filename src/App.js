@@ -1,13 +1,11 @@
-import React from "react";
-import { makeStyles } from "@material-ui/core/styles";
+import { Card, CardContent, Grid, IconButton, Paper } from "@material-ui/core";
 
-import { Paper, Grid, IconButton, Card, CardContent } from "@material-ui/core";
-
-import TypoGraphy from "@material-ui/core/Typography";
-
-import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
+import LinkedInIcon from "@material-ui/icons/LinkedIn";
+import React from "react";
 import TwitterIcon from "@material-ui/icons/Twitter";
+import TypoGraphy from "@material-ui/core/Typography";
+import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles((theme) => ({
   root: {
